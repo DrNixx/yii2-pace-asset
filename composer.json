@@ -1,6 +1,6 @@
 {
     "name": "drnixx/yii2-pace-asset",
-    "description": "PACE Assets for Yii2",
+    "description": "PACE Assets Bundle for Yii2",
     "type": "library",
     "require": {
         "php": ">=5.6.0",
