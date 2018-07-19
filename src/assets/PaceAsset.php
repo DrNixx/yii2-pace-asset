@@ -1,9 +1,9 @@
 <?php
 namespace onix\assets;
 
-use yii\web\AssetBundle;
+use yii\web\AssetBundle as YiiAssetBundle;
 
-class PaceAsset extends AssetBundle
+class PaceAsset extends YiiAssetBundle
 {
     public $sourcePath = '@bower/pace';
 
